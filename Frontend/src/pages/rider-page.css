@@ -1,0 +1,10 @@
+.app{
+    text-align: center;
+    background-color: rgb(245, 42, 110);
+    height: 100vh;
+    overflow: scroll;
+}
+.map{
+    height: 800px;
+    width: 100%;
+}

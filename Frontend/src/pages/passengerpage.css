@@ -1,0 +1,10 @@
+.map{
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+.topcard{
+    background-color:rgb(245, 42, 110) ;
+    overflow: scroll;
+}
