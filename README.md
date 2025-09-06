@@ -1,6 +1,7 @@
 # Woda
 Full stack frontend and backend React and Django application. Woda is a transportation business idea targeted towards women in Uganda.
-
+Woda takes its inspiration from the most common public transportation in Uganda : the motorcycle or locally known as the boda boda or boda for short.
+Combining Uganda's large female population with the economic opportunities presented by boda bodas led us to the idea for Woda a women's exclusive ride sharing app.
 Woda was created as a business demo by Tahsan Samin, Adrik Dilawar, Alishaan Bhudwani and Khyati Desphande for
 the Aga Khan 2022 business expo. 
 
@@ -12,5 +13,6 @@ Khyati Desphande was responsible for the brading of Woda.
 The code of the project is limited and available to be used and referenced by any of the team members.
 
 Woda "Driven by women for women"
+
 
 
