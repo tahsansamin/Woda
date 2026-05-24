@@ -8,7 +8,7 @@ the Aga Khan 2022 business expo.
 Tahsan Samin was responsible for the coding of Woda
 Adrik Dilawar was responsible for the marketing and presentation of Woda
 Alishaan Bhudwani was responsile for organising the business plan of Woda
-Khyati Desphande was responsible for the brading of Woda.
+Khyati Desphande was responsible for the branding of Woda.
 
 The code of the project is limited and available to be used and referenced by any of the team members.
 
